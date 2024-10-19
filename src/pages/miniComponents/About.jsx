@@ -29,11 +29,32 @@ const About = () => {
             />
           </div>
           <div className="flex justify-center flex-col tracking-[1px] text-xl gap-5">
-            <p>My name is ravi sankar</p>
-            <p>habits</p>
+            <p>
+              Hello! I'm Ravi Sankar, a passionate and dedicated full-stack web
+              developer with over 2.3 years of experience in crafting dynamic,
+              user-friendly web applications. My journey in web development has
+              equipped me with a diverse skill set, allowing me to work across
+              the front-end and back-end of projects, ensuring seamless
+              functionality and design.
+            </p>
+            <p>
+              Beyond coding, I’m constantly expanding my horizons by learning
+              new skills, which keeps me adaptable in the ever-evolving tech
+              landscape. When I'm not writing code, you’ll likely find me
+              reading books, meditating, or listening to podcasts—all of which
+              help me stay focused and inspired. I also enjoy unwinding with a
+              good movie after a day of creative problem-solving.
+            </p>
           </div>
         </div>
-        <p className="tracking-[1px] text-xl">some thing</p>
+        <p className="tracking-[1px] text-xl">
+          In addition to my professional experience, I offer my expertise as a
+          freelancer, collaborating with clients to bring their digital visions
+          to life. My goal is to build impactful, efficient, and elegant
+          solutions that not only meet but exceed client expectations. I’m
+          always excited to tackle new challenges, explore emerging
+          technologies, and continue growing both personally and professionally.
+        </p>
       </div>
     </div>
   );
